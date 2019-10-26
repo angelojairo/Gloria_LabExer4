@@ -1,0 +1,103 @@
+<resources>
+    <string-array name="companyName">
+        <item>ICBC</item>
+        <item>JPMorgan Chase</item>
+        <item>China Construction Bank</item>
+        <item>Agricultural Bank of China</item>
+        <item>Bank of America</item>
+        <item>Apple</item>
+        <item>Ping An Insurance Group</item>
+        <item>Bank of China</item>
+        <item>Royal Dutch Shell</item>
+        <item>Wells Fargo</item>
+        <item>Exxon Mobil</item>
+        <item>AT&amp;T</item>
+        <item>Samsung Electronics</item>
+        <item>Citigroup</item>
+    </string-array>
+
+    <string-array name="companyCountry">
+        <item>China</item>
+        <item>USA</item>
+        <item>China</item>
+        <item>China</item>
+        <item>USA</item>
+        <item>USA</item>
+        <item>China</item>
+        <item>China</item>
+        <item>UK</item>
+        <item>USA</item>
+        <item>USA</item>
+        <item>USA</item>
+        <item>South Korea</item>
+        <item>USA</item>
+    </string-array>
+
+    <string-array name="companyCEO">
+        <item>Shu Gu</item>
+        <item>Jaimie Dimon</item>
+        <item>Wang Zuji</item>
+        <item>Huan Zhao</item>
+        <item>Brian Moynihan</item>
+        <item>Tim Cook</item>
+        <item>Ma Mingzhe</item>
+        <item>Chen Siqing</item>
+        <item>Bernardus van Beurden</item>
+        <item>Timothy Allen Sloan</item>
+        <item>Darren Woods</item>
+        <item>Randall Stephenson</item>
+        <item>Hyun-Suk Kim</item>
+        <item>Michael Corbat</item>
+    </string-array>
+
+    <string-array name="companyIndustry">
+        <item>Major Banks</item>
+        <item>Major Banks</item>
+        <item>Major Banks</item>
+        <item>Regional Banks</item>
+        <item>Major Banks</item>
+        <item>Computer Hardware</item>
+        <item>Diversified Insurance</item>
+        <item>Major Banks</item>
+        <item>Oil and Gas Operations</item>
+        <item>Major Banks</item>
+        <item>Oil and Gas Operations</item>
+        <item>Telecommunications Services</item>
+        <item>Semiconductors</item>
+        <item>Major Banks</item>
+    </string-array>
+
+    <string-array name="companyStockPrice">
+        <item>CN¥5.98</item>
+        <item>US$126.03</item>
+        <item>CN¥7.44</item>
+        <item>CN¥3.66</item>
+        <item>US$31.72</item>
+        <item>US$246.58</item>
+        <item>CN¥88.00</item>
+        <item>CN¥3.73</item>
+        <item>€26.90</item>
+        <item>US$51.57</item>
+        <item>US$69.25</item>
+        <item>US$36.91</item>
+        <item>50,900 KRW</item>
+        <item>US$73.17</item>
+    </string-array>
+
+    <string-array name="companyDescription">
+        <item>It is the largest bank in China, and the largest bank in the world by total assets, deposits, loans, number of customers and number of employees.</item>
+        <item>JPMorgan Chase Co. is an American multinational investment bank and financial services holding company headquartered in New York City. JPMorgan Chase is ranked by SP Global as the largest bank in the United States and the sixth largest bank in the world by total assets, with total assets of US$2.73 trillion.</item>
+        <item>China Construction Bank Corporation is one of the "big four" banks in the Peoples Republic of China. In 2015 CCB was the 2nd largest bank in the world by market capitalization and 6th largest company in the world. The bank has approximately 13,629 domestic branches.</item>
+        <item>Agricultural Bank of China, also known as AgBank, is one of the "Big Four" banks in the Peoples Republic of China. It was founded in 1951, and has its headquarters in Dongcheng District, Beijing. It has branches throughout mainland China, Hong Kong, London, Tokyo, New York, Frankfurt, Sydney, Seoul, and Singapore.</item>
+        <item>The Bank of America Corporation is an American multinational investment bank and financial services company based in Charlotte, North Carolina, with central hubs in New York City, London, Hong Kong, Minneapolis, and Toronto. Bank of America was formed through NationsBanks acquisition of BankAmerica in 1998.</item>
+        <item>Apple Inc. is an American multinational technology company headquartered in Cupertino, California, that designs, develops, and sells consumer electronics, computer software, and online services. It is considered one of the Big Four tech companies along with Amazon, Google, and Facebook.</item>
+        <item>Ping An Insurance known also as Ping An of China, full name Ping An Insurance Company of China, Ltd. is a Chinese holding conglomerate whose subsidiaries mainly deal with insurance, banking, and financial services. The company was founded in 1988 and has its headquarters in Shenzhen.</item>
+        <item>Bank of China is one of the four biggest state-owned commercial banks in China. Bank of China is legally separate from its subsidiary Bank of China, although they maintain close relations in management and administration and co-operate in several areas including reselling BOCs insurance and securities services.</item>
+        <item>Royal Dutch Shell PLC, commonly known as Shell, is a Dutch-British oil and gas company headquartered in the Netherlands and incorporated in the United Kingdom. It is one of the oil and gas "supermajors" and the third-largest company in the world measured by 2018 revenues.</item>
+        <item>Wells Fargo Company is an American multinational financial services company headquartered in San Francisco, California, with central offices throughout the United States. It is the worlds fourth-largest bank by market capitalization and the fourth largest bank in the US by total assets.</item>
+        <item>Exxon Mobil Corporation, doing business as ExxonMobil, is an American multinational oil and gas corporation headquartered in Irving, Texas. It is the largest direct descendant of John D. Rockefellers Standard Oil, and was formed on November 30, 1999 by the merger of Exxon and Mobil.</item>
+        <item>ATT Inc. is an American multinational conglomerate holding company headquartered at Whitacre Tower in Downtown Dallas, Texas.</item>
+        <item>Samsung is a South Korean multinational conglomerate headquartered in Samsung Town, Seoul. It comprises numerous affiliated businesses, most of them united under the Samsung brand, and is the largest South Korean chaebol. Samsung was founded by Lee Byung-chul in 1938 as a trading company.</item>
+        <item>Citigroup Inc. or Citi is an American multinational investment bank and financial services corporation headquartered in New York City. The company was formed by the merger of banking giant Citicorp and financial conglomerate Travelers Group in 1998; Travelers was subsequently spun off from the company in 2002.</item>
+    </string-array>
+</resources>
